@@ -6,7 +6,7 @@ public class Program {
 
 	public static void main(String[] args) {
 		
-		Goods obj = new Goods (1, "Coke", 2.00, 5.00);
+		Goods obj = new Goods (1, "Coke", 3.00, 5.00);
 		System.out.println(obj);
 
 	}

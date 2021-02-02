@@ -10,6 +10,7 @@ public class Goods implements Serializable{
 	private String name;
 	private Double productPrice;
 	private Double productPurchase;
+	
 	/* private Double downProfit;
 	private Double upProfit;
 	 */
